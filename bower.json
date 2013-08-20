@@ -1,0 +1,12 @@
+{
+  "name": "YouAreDaBomb",
+  "version": "0.0.0",
+  "main": "lib/YouAreDaBomb.js",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "underscore": "git://github.com/documentcloud/underscore.git#~1.5.1"
+  }
+}
